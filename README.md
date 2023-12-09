@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/output/github-contribution-grid-snake.gif?color_snake=red&color_dots=#fff,#8dbdff,#fff,#4b91f1,#3c7dd9" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/output/github-contribution-grid-snake.gif?color_snake=#3030f1&color_dots=#fff,#8d4dff,#fff,#4a91c1,#337ad9" />
   
   <br/><br/><br/>
 </div>
