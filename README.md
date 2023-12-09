@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tewodrosAe.tewodrosAe" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tewodrosAe.tewodrosAe" />
 
 # 🤹‍♂️ Tewodros Yiheyis 👋
 
