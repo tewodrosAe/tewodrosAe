@@ -1,5 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tewodrosAe.tewodrosAe" />
+
 # 🤹‍♂️ Tewodros Yiheyis 👋
+
 **`Digital Artsian (Developer//Animator)`**
 
 I'm a passionate fullstack developer. Welcome to my world of creativity and innovation. I thrive on the intersection of technology and art, constantly seeking ways to bring imagination to life through code and animation.
