@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-2077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://tewodrosae.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-6F5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-6F57F2?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
