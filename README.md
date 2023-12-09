@@ -9,7 +9,6 @@
 I'm a passionate fullstack developer. Welcome to my world of creativity and innovation. I thrive on the intersection of technology and art, constantly seeking ways to bring imagination to life through code and animation.
 All coding projects are made from ground up from planning and designing all the way to solving real-life problems using the different skills i have learned over the years.
 
---
 <!--
 **tewodrosAe/tewodrosAe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,7 +38,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#fff,#8dbdff,#fff,#4b91f1,#3c7dd9" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/output/github-contribution-grid-snake.gif?color_snake=red&color_dots=#fff,#8dbdff,#fff,#4b91f1,#3c7dd9" />
   
   <br/><br/><br/>
 </div>
