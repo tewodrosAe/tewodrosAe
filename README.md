@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:tewodrosaemiro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -34,4 +34,12 @@ Here are some ideas to get you started:
   <a href="https://tewodrosae.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+</div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
