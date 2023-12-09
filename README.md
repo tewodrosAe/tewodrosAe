@@ -51,7 +51,7 @@ All coding projects are made from ground up from planning and designing all the 
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/output/github-contribution-grid-snake.gif?color_snake=#C7395F&color_dots=#DED4E8,#E8BA40,#000,#E8BA40,#E8BA40" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/output/github-contribution-grid-snake.gif?color_snake=#C7395F&color_dots=#DED4E8,#E8BA40,#000,#E8BA40aa,#E8BA40aa" />
   <br/>
 </div>
 
