@@ -6,6 +6,8 @@
 
 I'm a passionate fullstack developer. Welcome to my world of creativity and innovation. I thrive on the intersection of technology and art, constantly seeking ways to bring imagination to life through code and animation.
 All coding projects are made from ground up from planning and designing all the way to solving real-life problems using the different skills i have learned over the years.
+
+--
 <!--
 **tewodrosAe/tewodrosAe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
