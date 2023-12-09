@@ -1,6 +1,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tewodrosAe.tewodrosAe"  align='right'/>
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&weight=700&duration=2000&pause=500&color=29AE77&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🌟;🤹+Tewodros+Yiheyis+Here!" />
 </h1>
 
