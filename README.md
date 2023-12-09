@@ -63,5 +63,5 @@ All coding projects are made from ground up from planning and designing all the 
 </div>
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&weight=700&duration=1000&pause=100&color=C7395F&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Throw+me+a+text+on+LinkedIn+😏;🙏+Thank+you!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&weight=700&duration=1000&pause=100&color=C7395F&size=25&vCenter=true&width=500&height=70&duration=4000&lines=Throw+me+a+text+on+LinkedIn+😏;🙏+Thank+you!" />
 </h1>
