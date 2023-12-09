@@ -50,4 +50,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://streak-stats.demolab.com?user=tewodrosAe&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-![](https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/master/profile-summary-card-output/dracula/3-stats.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tewodrosAe&theme=radical)
