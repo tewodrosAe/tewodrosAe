@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tewodrosAe.tewodrosAe"  align='right'/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&duration=2000&pause=500&color=29AE77&vCenter=true&random=false&width=500&lines=Hi+There!+%F0%9F%8C%9F;%F0%9F%A4%B9+Tewodros+Yiheyis+Here!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&duration=2000&pause=500&color=29AE77&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%8C%9F;%F0%9F%A4%B9+Tewodros+Yiheyis+Here!" alt="Typing SVG" />
 </h1>
 
 **`Digital Artsian (Developer//Animator)`**
