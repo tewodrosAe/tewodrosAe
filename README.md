@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/output/github-contribution-grid-snake.gif?color_snake=#3030f1&color_dots=#fff,#8d4dff,#fff,#4a91c1,#337ad9" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tewodrosAe/tewodrosAe/output/github-contribution-grid-snake.gif?color_snake=#C7395F&color_dots=#DED4E8,#E8BA40,#DED4E8,#E8BA40,#E8BA40" />
   
   <br/><br/><br/>
 </div>
