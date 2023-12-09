@@ -47,11 +47,6 @@ All coding projects are made from ground up from planning and designing all the 
 
 <br/>
 
-#
-
-<br/>
-
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
