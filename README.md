@@ -44,7 +44,10 @@ All coding projects are made from ground up from planning and designing all the 
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
+<br/>
+
 #
+
 <br/>
 
 
