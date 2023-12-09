@@ -62,6 +62,8 @@ All coding projects are made from ground up from planning and designing all the 
   <img align="center" src="https://streak-stats.demolab.com?user=tewodrosAe&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=tewodrosAe&show_icons=true&theme=gruvbox)
+
 #
 
 <h1 align="center">
