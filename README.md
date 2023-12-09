@@ -35,6 +35,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
