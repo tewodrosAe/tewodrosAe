@@ -1,6 +1,8 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tewodrosAe.tewodrosAe"  align='right'/>
 
-# 🤹‍♂️ Tewodros Yiheyis 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;🤹+Tewodros+Yiheyis+Here" />
+</h1>
 
 **`Digital Artsian (Developer//Animator)`**
 
