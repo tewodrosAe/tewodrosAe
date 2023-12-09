@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tewodrosAe.tewodrosAe"  align='right'/>
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Kalnia&weight=700&duration=1000&pause=100&color=C7395F&size=30&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🌟;👨‍💻+Tewodros+Yiheyis+Here!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kalnia&weight=400&duration=1000&pause=100&color=C7395F&size=30&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🌟;👨‍💻+Tewodros+Yiheyis+Here!" />
 </h1>
 
 **`Digital Artsian (Developer//Animator)`**
