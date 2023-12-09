@@ -50,4 +50,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://streak-stats.demolab.com?user=tewodrosAe&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<div align='center'>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tewodrosAe&theme=radical)
+</div>
